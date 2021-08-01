@@ -1,0 +1,16 @@
+C:\Users\de_Riter\source\repos\ado-connectedlayer\ado-connectedlayer\bin\Debug\ado-connectedlayer.exe.config
+C:\Users\de_Riter\source\repos\ado-connectedlayer\ado-connectedlayer\bin\Debug\ado-connectedlayer.exe
+C:\Users\de_Riter\source\repos\ado-connectedlayer\ado-connectedlayer\bin\Debug\ado-connectedlayer.pdb
+C:\Users\de_Riter\source\repos\ado-connectedlayer\ado-connectedlayer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\de_Riter\source\repos\ado-connectedlayer\ado-connectedlayer\bin\Debug\System.Security.AccessControl.dll
+C:\Users\de_Riter\source\repos\ado-connectedlayer\ado-connectedlayer\bin\Debug\System.Security.Permissions.dll
+C:\Users\de_Riter\source\repos\ado-connectedlayer\ado-connectedlayer\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\de_Riter\source\repos\ado-connectedlayer\ado-connectedlayer\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\de_Riter\source\repos\ado-connectedlayer\ado-connectedlayer\bin\Debug\System.Security.AccessControl.xml
+C:\Users\de_Riter\source\repos\ado-connectedlayer\ado-connectedlayer\bin\Debug\System.Security.Permissions.xml
+C:\Users\de_Riter\source\repos\ado-connectedlayer\ado-connectedlayer\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\de_Riter\source\repos\ado-connectedlayer\ado-connectedlayer\obj\Debug\ado-connectedlayer.csproj.AssemblyReference.cache
+C:\Users\de_Riter\source\repos\ado-connectedlayer\ado-connectedlayer\obj\Debug\ado-connectedlayer.csproj.CoreCompileInputs.cache
+C:\Users\de_Riter\source\repos\ado-connectedlayer\ado-connectedlayer\obj\Debug\ado-connectedlayer.csproj.CopyComplete
+C:\Users\de_Riter\source\repos\ado-connectedlayer\ado-connectedlayer\obj\Debug\ado-connectedlayer.exe
+C:\Users\de_Riter\source\repos\ado-connectedlayer\ado-connectedlayer\obj\Debug\ado-connectedlayer.pdb
